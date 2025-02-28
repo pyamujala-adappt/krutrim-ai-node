@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.KrutrimAi",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/pyamujala-adappt/krutrim-ai-node"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/pyamujala-adappt/krutrim-ai-node"
+			}
+		]
+	}
+}
